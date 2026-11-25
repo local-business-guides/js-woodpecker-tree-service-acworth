@@ -12,10 +12,10 @@
 - Tree service
 
 ## Guides
-- [Emergency Tree Service Acworth for Urgent Tree Concerns](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/emergency-tree-service-acworth/): Emergency Tree Service Acworth offers clear guidance for urgent tree concerns in Acworth. Call JS Woodpecker Tree Service any time to discuss next steps.
+- [Emergency Tree Removal Acworth for Serious Tree Hazards](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/emergency-tree-removal-acworth/): Emergency Tree Removal Acworth helps you understand removal options for a serious tree hazard in Acworth. Call JS Woodpecker Tree Service to discuss it.
 - [Tree Service in Acworth, GA for Your Property](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/tree-service/): Plan your next step with customer-focused Tree Service in Acworth, GA. Call JS Woodpecker Tree Service to discuss your property and request an estimate today.
 - [Tree Removal Acworth Homeowners Can Discuss](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/tree-removal-acworth/): Thinking about taking down a tree? Discuss Tree Removal Acworth homeowners can plan with JS Woodpecker Tree Service in Acworth, GA. Call for an estimate.
-- [Emergency Tree Removal Acworth for Serious Tree Hazards](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/emergency-tree-removal-acworth/): Emergency Tree Removal Acworth helps you understand removal options for a serious tree hazard in Acworth. Call JS Woodpecker Tree Service to discuss it.
+- [Emergency Tree Service Acworth for Urgent Tree Concerns](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/emergency-tree-service-acworth/): Emergency Tree Service Acworth offers clear guidance for urgent tree concerns in Acworth. Call JS Woodpecker Tree Service any time to discuss next steps.
 - [Tree Trimming Acworth for Your Home](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/tree-trimming-acworth/): Tree Trimming Acworth homeowners can plan with friendly service and clear pricing in Acworth, GA. Call JS Woodpecker Tree Service today for an estimate.
 - [Tree Pruning Acworth: Plan the Work With Care](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/tree-pruning-acworth/): Tree Pruning Acworth homeowners can discuss with a local team, clear upfront pricing, and a friendly estimate in Acworth, GA. Call JS Woodpecker today.
 - [Tree Service Acworth for Your Home](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/tree-service-acworth/): Tree Service Acworth: discuss removal or trimming with a customer-focused local team. Get a friendly estimate in Acworth, Georgia, and call today.
@@ -24,7 +24,7 @@
 - [Local Tree Service for Acworth, Georgia](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/local-tree-service/): Choose a local tree service in Acworth for a clear conversation about tree work, then call JS Woodpecker Tree Service to request an estimate today.
 
 ## Newsroom
-- [JS Woodpecker Tree Service Releases Emergency Tree Service Acworth Guide](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/news/2026-11-25-js-woodpecker-tree-service-releases-emergency-tree/): JS Woodpecker Tree Service has released an Acworth-focused guide, plus a YouTube video, podcast episode and SoundCloud audio version. (2026-11-25)
+- [JS Woodpecker Tree Service Releases Emergency Tree Removal Acworth Guide](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/news/2026-11-25-js-woodpecker-tree-service-releases-emergency-tree/): The Acworth tree service has released a guide, a YouTube video, a podcast episode and a SoundCloud audio version on emergency tree removal. (2026-11-25)
 
 ## Pages
 - [Tree Service in Acworth, Georgia](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/): Thoughtful tree care and clear estimates for homes and properties in Acworth, Georgia. Call +1678-559-4030.
@@ -34,4 +34,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/js-woodpecker-tree-service-acworth/news/rss.xml)
-- [Main resource site](https://js-woodpecker-tree-service-acworth.localwebsites.chatgpt.site/emergency-tree-service-acworth/)
+- [Main resource site](https://js-woodpecker-tree-service-acworth.localwebsites.chatgpt.site/news/2026-11-25-js-woodpecker-tree-service-publishes-new-tree-service-guide/)
